@@ -1,0 +1,28 @@
+{
+  "name": "flags",
+  "version": "1.0.0",
+  "description": "A flag guessing game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivi-dev/flags.git"
+  },
+  "keywords": [
+    "flags",
+    "flag",
+    "guessing",
+    "game",
+    "guessing",
+    "guess",
+    "game"
+  ],
+  "author": "Iliyan Videv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivi-dev/flags/issues"
+  },
+  "homepage": "https://github.com/ivi-dev/flags#readme"
+}

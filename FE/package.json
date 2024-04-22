@@ -4,7 +4,8 @@
   "description": "A flag guessing game.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch src/assets/style/sass:src/assets/style/css"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/ivi-dev/flags/issues"
   },
-  "homepage": "https://github.com/ivi-dev/flags#readme"
+  "homepage": "https://github.com/ivi-dev/flags#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "sass": "^1.75.0"
+  }
 }

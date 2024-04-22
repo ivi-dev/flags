@@ -27,7 +27,8 @@
   },
   "homepage": "https://github.com/ivi-dev/flags#readme",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
     "sass": "^1.75.0"
